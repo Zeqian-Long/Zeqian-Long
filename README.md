@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Zeqian (Richard) 😄
+
+This page is under construction and will be updated regularly.
 
 <!--
 **Zeqian-Long/Zeqian-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
